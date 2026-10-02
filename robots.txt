@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yloru086.github.io/2006-5/sitemap.xml
